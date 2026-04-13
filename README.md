@@ -10,7 +10,7 @@ Looking for a full-time Data Scientist position from June 2026 · Île-de-France
 
 I'm a Data Scientist with experience in two large organizations : SNCF Réseau and Canal+ Groupe, building predictive models and AI-powered solutions across infrastructure and media.
 
-Trained in Applied Statistics & Econometrics (MASERATI) and currently completing an MSc in Data Science & AI Strategy at emlyon business school, including an exchange at McGill University (Montreal, 2025).
+Trained in Applied Statistics & Econometrics and currently completing an MSc in Data Science & AI Strategy at emlyon business school, including an exchange at McGill University (Montreal, 2025).
 
 My conviction: data science creates value not through technical performance alone, but through its ability to answer real business questions.
 
