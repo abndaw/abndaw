@@ -65,16 +65,11 @@ Led a student team to develop predictive models detecting customers at risk of c
 ## Education
 
 | Degree | School | Period |
-
 |--------|--------|--------|
-
-| MSc Data Science & AI Strategy | emlyon business school | 2024 - 2026 |
-
-| Exchange | McGill University, Montreal | May - Jul 2025 |
-
-| Master MASERATI (Statistics & Econometrics) | Université Paris-Est Créteil | 2022 - 2024 |
-
-| Licence Économie (Data Science track) | Université Paris-Est Créteil | 2019 - 2022 |
+| MSc Data Science & AI Strategy | emlyon business school | 2024 – 2026 |
+| Exchange | McGill University, Montreal | May – Jul 2025 |
+| Master MASERATI (Statistics & Econometrics) | Université Paris-Est Créteil | 2022 – 2024 |
+| Licence Économie (Data Science track) | Université Paris-Est Créteil | 2019 – 2022 |
 
 ---
 
