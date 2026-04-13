@@ -8,21 +8,11 @@ Looking for a full-time Data Scientist position from June 2026 · Île-de-France
 
 ## About me
 
-I started with a scientific baccalauréat, then studied economics with a data science
+I'm a Data Scientist with experience in two large organizations : SNCF Réseau and Canal+ Groupe, building predictive models and AI-powered solutions across infrastructure and media.
 
-specialization before completing a master's in applied statistics and econometrics.
+Trained in Applied Statistics & Econometrics (MASERATI) and currently completing an MSc in Data Science & AI Strategy at emlyon business school, including an exchange at McGill University (Montreal, 2025).
 
-To bridge technical skills with business strategy, I joined emlyon's MSc in Data Science
-
-& AI Strategy, including an exchange at McGill University (Montreal, 2025).
-
-I've worked as a Data Scientist in two large organizations : SNCF Réseau and Canal+ Groupe,
-
-across infrastructure and media, building predictive models and AI-powered solutions.
-
-My conviction: data science creates value not through technical performance alone,
-
-but through its ability to answer real business questions.
+My conviction: data science creates value not through technical performance alone, but through its ability to answer real business questions.
 
 ---
 
@@ -50,9 +40,7 @@ but through its ability to answer real business questions.
 
 ### 📚 NextChapter : LLM-Enhanced Book Recommendation System
 
-Personalized book recommender using Neural Collaborative Filtering with LLM embeddings  
-
-(OpenAI `text-embedding-3-large` + SentenceTransformers fallback).  
+Personalized book recommender using Neural Collaborative Filtering with LLM embeddings (OpenAI `text-embedding-3-large` + SentenceTransformers fallback).  
 
 Built a full pipeline: preprocessing → embeddings → NCF training → Streamlit app.  
 
@@ -62,9 +50,7 @@ Built a full pipeline: preprocessing → embeddings → NCF training → Streaml
 
 ### 🎯 Churn Prevention System  (MSc Dissertation)
 
-AI system combining Machine Learning and LLM agents to automate personalized  
-
-marketing actions for at-risk subscribers.  
+AI system combining Machine Learning and LLM agents to automate personalized marketing actions for at-risk subscribers.  
 
 `Python` `LLMs` `AI Agents` `Machine Learning`
 
