@@ -2,8 +2,6 @@
 
 **MSc Data Science & AI Strategy · emlyon business school**  
 
-Looking for a full-time Data Scientist position from June 2026 · Île-de-France
-
 ---
 
 ## About me
