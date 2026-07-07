@@ -71,11 +71,11 @@ Led a student team to develop predictive models detecting customers at risk of c
 
 - TOEIC English : 950/990
 
-- AWS Certified Cloud Practitioner *(in progress)*
+- AWS Certified Cloud Practitioner
 
-- Dataiku Core Designer Certificate *(in progress)*
+- Dataiku Core Designer Certificate
 
-- Dataiku Advanced Designer Certificate *(in progress)*
+- Dataiku Advanced Designer Certificate
 
 ---
 
