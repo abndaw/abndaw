@@ -1,7 +1,5 @@
 # Hi, I'm Abdoulaye Ndaw 👋
 
-**MSc Data Science & AI Strategy · emlyon business school**  
-
 ---
 
 ## About me
