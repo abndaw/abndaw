@@ -36,7 +36,7 @@ My conviction: data science creates value not through technical performance alon
 
 ## Featured projects
 
-### 📚 NextChapter : LLM-Enhanced Book Recommendation System
+### NextChapter : LLM-Enhanced Book Recommendation System
 
 Personalized book recommender using Neural Collaborative Filtering with LLM embeddings (OpenAI `text-embedding-3-large` + SentenceTransformers fallback).  
 
@@ -46,13 +46,15 @@ Built a full pipeline: preprocessing → embeddings → NCF training → Streaml
 
 → [View repository](https://github.com/abndaw/Book-recommender)
 
-### 🎯 Churn Prevention System  (MSc Dissertation)
+### Churn Prevention System  (MSc Dissertation)
 
 AI system combining Machine Learning and LLM agents to automate personalized marketing actions for at-risk subscribers.  
 
 `Python` `LLMs` `AI Agents` `Machine Learning`
 
-### 🤝 Anti-Churn Algorithms with **Club Med**
+→ [View repository](https://github.com/abndaw/agentic-churn-prevention)
+
+### Anti-Churn Algorithms with **Club Med**
 
 Led a student team to develop predictive models detecting customers at risk of cancellation.  
 
