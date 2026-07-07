@@ -1,7 +1,5 @@
 # Hi, I'm Abdoulaye Ndaw 👋
 
-## About me
-
 I'm a Data Scientist with experience in two large organizations : SNCF Réseau and Canal+ Groupe, building predictive models and AI-powered solutions across infrastructure and media.
 
 Trained in Applied Statistics & Econometrics and currently completing an MSc in Data Science & AI Strategy at emlyon business school, including an exchange at McGill University (Montreal, 2025).
