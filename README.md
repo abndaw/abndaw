@@ -1,4 +1,14 @@
+<div align="center">
+
 # Hi, I'm Abdoulaye Ndaw 👋
+
+### Data Scientist | Machine Learning Engineer | AI Enthusiast
+
+</div>
+
+---
+
+## About me
 
 I'm a Data Scientist with experience in two large organizations : SNCF Réseau and Canal+ Groupe, building predictive models and AI-powered solutions across infrastructure and media.
 
@@ -40,6 +50,8 @@ Built a full pipeline: preprocessing → embeddings → NCF training → Streaml
 
 → [View repository](https://github.com/abndaw/Book-recommender)
 
+---
+
 ### Churn Prevention System  (MSc Dissertation)
 
 AI system combining Machine Learning and LLM agents to automate personalized marketing actions for at-risk subscribers.  
@@ -47,6 +59,8 @@ AI system combining Machine Learning and LLM agents to automate personalized mar
 `Python` `LLMs` `AI Agents` `Machine Learning`
 
 → [View repository](https://github.com/abndaw/agentic-churn-prevention)
+
+---
 
 ### Anti-Churn Algorithms with **Club Med**
 
@@ -83,7 +97,7 @@ Led a student team to develop predictive models detecting customers at risk of c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoulaye_Ndaw-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdoulaye-ndaw/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-abndaw-181717?style=flat&logo=github)](https://github.com/abndaw)
+📧 abdoulayendaw74@gmail.com
 
-📧 abdoulayendaw74@gmail.com · 📍 Île-de-France
+---
 
