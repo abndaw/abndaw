@@ -112,7 +112,7 @@ Led a student team to develop predictive models detecting customers at risk of c
 
 ---
 
-## Let's connect
+## Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoulaye_Ndaw-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdoulaye-ndaw/)
 
