@@ -18,23 +18,33 @@ My conviction: data science creates value not through technical performance alon
 
 ---
 
-## Skills
+## 🛠️ Skills
 
-**Languages & tools**  
+### Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,aws" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SAS-005C97?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dataiku-FF6C37?style=for-the-badge" />
+</p>
 
-`Python` `SQL` `R` `SAS` `Dataiku` `AWS`
+### Machine Learning & AI
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-E34F26?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+</p>
 
-**Machine Learning & AI**  
+### Data & ML Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-`Machine Learning` `Deep Learning` `Recommendation Systems` `NLP` `LLMs` `Generative AI` `AI Agents`
-
-**Data & ML libraries**  
-
-`NumPy` `pandas` `scikit-learn` `TensorFlow/Keras`
-
-**Visualization & BI**  
-
-`matplotlib` `seaborn` `Power BI` `Tableau`
+### Visualization & BI
+`Matplotlib` `Seaborn` `Power BI` `Tableau`
 
 ---
 
